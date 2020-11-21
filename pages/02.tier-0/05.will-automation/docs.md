@@ -24,3 +24,5 @@ There is a way to automate Will collection, this will require a few more advance
 ![](Mechanical%20user.jpg)
 
 You will need to check the Mechanical User to ensure the Sword is repaired. This will hit mobs with a sword without you having to lift a finger, you will only need to ensure that the Will is being picked up. To store the Will in a Tartaric Gem, make sure to drop it on the ground and pick it up again with the Gem in your inventory.
+
+In 1.12.2, you're able to insert your Tartaric Gem inside the Mechanical User to collect the Will.
